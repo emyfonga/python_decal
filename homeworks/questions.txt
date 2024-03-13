@@ -1,0 +1,23 @@
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+ls: to check what is in the file you're in. 
+cd: Go into a folder 
+nano: opens a file for me to write into. 
+
+2. Do you have pets? What kind?
+2 dogs, 2 snakes, 1 leopard gecko.
+deceased: chameleon, lost 5 birds. 
+
+3. If you run across an error, what would your first course of action be?
+look back and see where the error is(try to figure it out on my own) , 
+google it. 
+
+4. Funniest thing that happened to you in high school.
+my 9th grade boyfriend tried to break up with me, and for him to feel bad 
+over it, I sat on a hill, with my head between my legs, and made myself 
+cry. All this so his friends came over and asked why im crying, then I 
+tolf them what had happened. To make this story short, my 9th grade 
+boyfriend said , "okay no break up" (we broke up like 2 weeks later) :))
+
+5. What is a python script? (Keep it simple)
+A python script has python that you can eventually run. 
+
